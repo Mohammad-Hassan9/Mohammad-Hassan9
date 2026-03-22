@@ -10,47 +10,47 @@ I’m Hassan, an Economics undergraduate (Class of 2029) with a strong academic 
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-F97316?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-22C55E?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E11D48?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F97316?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-22C55E?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E11D48?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4B32?style=for-the-badge&logo=asm&logoColor=white)
 
 ---
 
 ## Projects
 
-* Instagram Clone (Front-end)
-* Simple AI Model
-* Mini Game Browser (Front-end only)
-* Dashboard (Front-end only)
-* Dino, Snake, Tic Tac Toe, Flappy Bird (Python)
-* Voting Management System (Java)
+* Instagram Clone (Front-end)  
+* Simple AI Model  
+* Mini Game Browser (Front-end only)  
+* Dashboard (Front-end only)  
+* Dino, Snake, Tic Tac Toe, Flappy Bird (Python)  
+* Voting Management System (Java)  
 
 ---
 
 ## Currently Learning
 
-* Kali Linux & Cybersecurity Basics
-* Working towards becoming a Full-Stack Developer
+* Kali Linux & Cybersecurity Basics  
+* Working towards becoming a Full-Stack Developer  
 
 ---
 
 ## Portfolio
 
-[https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+https://mohammad-hassan9.github.io/Portfolio/
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hassan9\&show_icons=true\&hide_border=true\&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hassan9&show_icons=true&hide_border=true&theme=default)
 
 ---
 
 ## Contact
 
-* Email: [hassanaliabbasi793@gmail.com](mailto:hassanaliabbasi793@gmail.com)
+* Email: [hassanaliabbasi793@gmail.com](mailto:hassanaliabbasi793@gmail.com)  
 * GitHub: [https://github.com/Mohammad-Hassan9](https://github.com/Mohammad-Hassan9)
-
----
