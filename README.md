@@ -1,52 +1,56 @@
-<!-- <h3 title="Welcome!"> Hi there! 👋</h3> -->
+# Mohammad Hassan
 
-<!--
-**MohammadHassan/MohammadHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="Welcome!"> Hey 👋, I'm Mohammad Hassan!</h3>
+I’m Hassan, an Economics undergraduate (Class of 2029) with a strong academic background (89%). I focus on building simple, effective, and well-structured digital experiences with clean design and smooth functionality.
 
-<a href="https://www.instagram.com/un_hassan.9">
-  <img align="left" alt="Mohammad Hassan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.com/invite/w362CeT5">
-  <img align="left" alt="Mohammad Hassan's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=MohammadHassan&color=blueviolet">
-<br />
-<br />
+---
 
-Hi there, I'm **Mohammad Hassan**, an **IT student** 🚀 from Pakistan.
+## Tech Stack
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+![HTML](https://img.shields.io/badge/HTML-F97316?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-22C55E?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E11D48?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-**About Me!**
+---
 
-- 👨🏽‍💻 I’m currently studying IT with a focus on enhancing my skills in programming.
-- 🌱 I’m currently learning about graphics and exploring new technologies.
-- ⚽ I’m passionate about cricket, PUBG, football, hiking, and hitting the gym.
-- 📝 I’m also an activist and writer.
-- 💬 Feel free to ask me about Java, Python, C++, or any of my interests!
-- 📫 Connect with me on [Instagram](https://www.instagram.com/un_hassan.9) or [Discord](https://discord.com/invite/w362CeT5).
+## Projects
 
-**Languages and Tools:**
+* Instagram Clone (Front-end)
+* Simple AI Model
+* Mini Game Browser (Front-end only)
+* Dashboard (Front-end only)
+* Dino, Snake, Tic Tac Toe, Flappy Bird (Python)
+* Voting Management System (Java)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadHassan&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Mohammad Hassan's GitHub Stats">
+## Currently Learning
 
-⭐️ From [MohammadHassan](https://github.com/MohammadHassan)
+* Kali Linux & Cybersecurity Basics
+* Working towards becoming a Full-Stack Developer
+
+---
+
+## Portfolio
+
+[https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hassan9\&show_icons=true\&hide_border=true\&theme=default)
+
+---
+
+## Contact
+
+* Email: [hassanaliabbasi793@gmail.com](mailto:hassanaliabbasi793@gmail.com)
+* GitHub: [https://github.com/Mohammad-Hassan9](https://github.com/Mohammad-Hassan9)
+
+---
